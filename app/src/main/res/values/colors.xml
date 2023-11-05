@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_primary">#FD3A69</color>
+    <color name="black_222831">#FF222831</color>
+    <color name="pink_17FD3A69">#33FD3A69</color>
+    <color name="pink_FFFD3A69">#FD3A69</color>
+    <color name="grey_FFAAAAAD">#AAAAAD</color>
+    <color name="grey_bottom">#FFF0F0F0</color>
+    <color name="grey_border">#F3F5F9</color>
+    <color name="grey_7B7B7B">#7B7B7B</color>
+    <color name="grey_FFC3C3C9">#C3C4C9</color>
+
+</resources>

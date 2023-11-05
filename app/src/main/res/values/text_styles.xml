@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CityText" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black_222831</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+
+    <style name="FoodNameText" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black_222831</item>
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="FoodDescriptionText" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey_FFAAAAAD</item>
+        <item name="android:fontFamily">@font/sf_ui_display_bold</item>
+    </style>
+
+    <style name="FoodPriceText" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/pink_FFFD3A69</item>
+        <item name="android:fontFamily">@font/sf_ui_display_regular</item>
+    </style>
+
+    <style name="CategoryText" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/grey_FFC3C3C9</item>
+        <item name="android:fontFamily">@font/sf_ui_display_regular</item>
+    </style>
+
+
+</resources>

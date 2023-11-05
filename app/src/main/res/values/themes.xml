@@ -1,0 +1,19 @@
+<resources xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Delivery" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/grey_bottom</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="BottomNavigationView.Text" parent="@style/Widget.Design.BottomNavigationView">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/inter_medium</item>
+        <item name="itemIconTint">@drawable/bottom_navigation_selector</item>
+        <item name="itemTextColor">@drawable/bottom_navigation_selector</item>
+        <item name="android:textColor">@color/pink_FFFD3A69</item>
+    </style>
+
+    <style name="Theme.Delivery" parent="Base.Theme.Delivery" />
+</resources>
